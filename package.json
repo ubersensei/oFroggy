@@ -1,0 +1,23 @@
+{
+  "name": "p1",
+  "version": "0.0.0",
+  "description": "pluralsight node patterns",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "keep",
+    "trying"
+  ],
+  "author": "sj",
+  "license": "ISC"
+}
